@@ -6,7 +6,7 @@
 [ext_resource path="res://img/Ship_Small.png" type="Texture" id=4]
 [ext_resource path="res://Script/Drone.gd" type="Script" id=5]
 [ext_resource path="res://img/Drone_Character.png" type="Texture" id=6]
-[ext_resource path="res://Drone_Flip.gd" type="Script" id=7]
+[ext_resource path="res://Script/Drone_Flip.gd" type="Script" id=7]
 
 [sub_resource type="RectangleShape2D" id=1]
 
